@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+  }
+  
+  header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    background: #2C73D2;
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 40px;
+  }
+  
+  img {
+      border-radius: 100%;
+      size: 40%;
+      border: 5px solid white;
+  }
+  
+  .menu {
+    background-color: black;
+    color: #ffffff;
+    width: 200px;
+    margin-top: -40px;
+    font-family: sans-serif;
+    padding-top: 20px;;
+    
+  }
+  
+  .skills {
+    width: 100px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    font-weight: bold;
+  }
+  
+  .h1_menu {
+    margin-left: 30px;
+  }
+  
+  .main {
+    max-width: 1000px;
+    box-sizing: border-box;
+    padding-left: 120px;
+  }
+  
+  footer {
+    padding-top: 30px;
+    
+  }
+  
+  .menu_link {
+    padding-bottom: 20px;
+    padding-left: 10px;
+  }
